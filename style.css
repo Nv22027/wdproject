@@ -1,0 +1,179 @@
+
+  .Navbar{
+    background-color:rgba(236, 52, 52, 1); 
+    width:auto;
+    height: 3rem;
+    align-items:center;
+
+  }
+
+  .Navbar-card{
+    padding: 30px;
+    margin-top:30px;
+    font-size:25px;
+  }
+  .Navbar-card-button{
+    padding: 30px; 
+    margin-top:10px;
+    font-size:25px;
+  
+}
+
+ head{
+ align-items:center;
+ }
+ .bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/imges/pexels-wendy-wei-1190298.jpg");
+    min-height: 100%; 
+    background-color: rgb(27, 27, 27);
+    filter: saturate(70%) ;
+    
+  }
+
+ .container{
+background-color:#505050;
+padding:46px;
+ } 
+
+.w3-quarter{
+    background-color:#FBBB71; 
+}
+.p.w3-quarter{
+    border: #5980cd; 
+}
+.center{
+    background-color:#FBBB71;
+    box-sizing:1000px x 42px;
+}
+.center-large{
+    background-color:#FBBB71;
+}
+.cony{
+    background-color:#FBBB71;
+    padding: auto;
+}
+.w3-container-w3-light-grey{
+    background-color:#FBBB71;
+    padding: auto;
+}
+.w3-card h3{
+   
+    font-weight:bold;
+}
+.w3-card{
+    background-color:#07ff98;
+    padding: auto;
+    filter: saturate(200%);
+    font-weight:bold;
+}
+.w3-container-w3-center-w3-dark-grey{
+    background-color:#505050;
+
+}
+
+.w3-container-w3-light-grey{
+    background-color:#9418d2;
+
+} 
+.center,.center-large{
+    text-align:center ;
+}
+.w3-large{
+    font-weight:bold;
+}
+.center{
+    font-weight:bold
+}
+
+.w3-container-2{
+    background-color:#5980cd; 
+    
+}
+.w3-third{
+    margin-top:16px;
+}
+.w3-red-w3-xlarge-w3-padding-32{
+    background-color: #FBBB71;
+    
+}
+.P-center{
+    text-align:center;
+    font-size:  50px;
+    font-weight: bold;
+}
+.P2-center{
+    text-align:center;
+    font-size:  50px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.w3-large{
+    text-align:center;
+    font-weight: bold;
+}
+
+.P-end{
+ color: rgb(0, 0, 0);   
+ font-weight: bold; 
+text-align: center; 
+font-size:large;
+}
+
+.P-Bronze{
+    background-color: black;
+    color: #b93b00;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.P-Silver{
+    background-color: black;
+    color: #cac7c7;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.P-Gold{
+    background-color: black;
+    color: #ffce3b;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.P-CUSTOM{
+    background-color: black;
+    color: #48cec3;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+
+.PP-BUTON{
+        background-color: black;
+        color: #ffffff;
+        font-size:20pxS;
+        font-weight: bold;
+        border:none;
+        align-items:center;
+        padding:10px;
+    }
+
+
+.P-T{
+    font-size:70px;
+    font-weight:bold;
+    color: aliceblue; 
+    
+    
+   
+}
+.PP{ 
+    padding-top:30rem;
+}
+
+.w3-CUS{
+    margin-bottom:100px;
+}
+select{
+    color: #0000008e;
+}

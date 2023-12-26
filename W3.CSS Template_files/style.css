@@ -1,0 +1,33 @@
+
+  .Navbar{
+    background-color:rgba(236, 52, 52, 1); 
+    width:auto;
+    height: 3rem;
+    align-items:center;
+
+  }
+
+  .Navbar-card{
+    padding:20px;
+    align-items:center;
+  }
+  .Navbar-card-button{
+    padding: 16px; 
+    align-items: center;
+  
+}
+
+ head{
+ align-items:center;
+ }
+ .bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/imges/pexels-wendy-wei-1190298.jpg");
+    min-height: 100%; 
+    background-color: rgb(27, 27, 27);
+  }
+
+  
+
+  
